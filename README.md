@@ -4,17 +4,26 @@ This is a Django-based social media platform that allows users to register, log 
 
 ✨ Key Features
 🔐 User Authentication – Secure signup, login, logout
+
 👤 Profile Management – Each user has their own account and posts
+
 🖼️ Post Creation with Media – Users can upload images along with text posts
+
 👍 💬 Likes & Comments – Posts support user interactions and discussions
+
 👥 Follow System – Users can follow other users to build connections
+
 💌 Direct Messaging – One-to-one messaging between users
+
 📱 Responsive UI – Built with Django templates and Bootstrap for clean design
 
 🛠️ Tech Stack
 Backend: Django, Python, Django ORM
+
 Frontend: HTML, CSS, Bootstrap, JavaScript
+
 Database: SQLite (development) → scalable to PostgreSQL/MySQL
+
 Others: Django Templates, Static & Media file handling
 
 🚀 Why This Project Stands Out
